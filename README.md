@@ -22,8 +22,6 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lilian-lee-54305777/)
-[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/lilianlee.me/)
 [![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/ma-yan-biao-73)
 
