@@ -31,7 +31,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 [4] Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准(ICML 2021 WorkShop) https://arxiv.org/abs/2109.05263
 ## 其他方法 Other methods
 [1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
-
+备注：这篇论文将尾部类别的历史特征保存下来，以实现和头部类别在数量上的平衡
 [2] Long-tailed Distribution Adaptation 长尾分布适应 （ACM MM 2021）https://arxiv.org/pdf/2110.02686.pdf
 
 [3] Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 (2021年提交到arxiv) https://arxiv.org/abs/2108.12757
