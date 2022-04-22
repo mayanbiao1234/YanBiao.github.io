@@ -3,22 +3,20 @@
 We focus on deep imbalanced learning as well as imbalanced learning in open environments, with recent advances in imbalance metrics.
 <br />关注不平衡学习，特别是开放环境下的不平衡问题，以及不平衡度量的最新进展！
 ## 不平衡学习研究分类
-<br />我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失、训练策略、数据增广、特征迁移学习以及其他方法
+<br />我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失（成本敏感学习）、训练策略、数据增广、特征迁移学习以及其他方法
+
+## 重采样以及成本敏感学习
 
 
-### My side projects
+## 分阶段的训练策略
 
-1. Collecting and sharing awesome resources about technical communication (tech comm):
 
-    [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
+## 数据增广
 
-    > **Note:** Currently, this project includes tech comm resources in both English and Chinese.
+## 特征迁移学习
 
-2. Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
 
-    - [知乎主页](https://www.zhihu.com/people/ma-yan-biao-73)
-    - [微信公众号：技术传播那些事儿](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
-
+## 其他方法
 
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
