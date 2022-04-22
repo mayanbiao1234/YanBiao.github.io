@@ -1,7 +1,6 @@
 ##### YanBiao.github.io
 ## Hi there 👋  Imbalanced Learning
 We focus on deep imbalanced learning as well as imbalanced learning in open environments, with recent advances in imbalance metrics.
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);关注不平衡学习，特别是开放环境下的不平衡问题，以及不平衡度量的最新进展！&center=true&size=27"> </a> </h1>
 <br />关注不平衡学习，特别是开放环境下的不平衡问题，以及不平衡度量的最新进展！
 ## 不平衡学习研究分类
 我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失（成本敏感学习）、训练策略、数据增广、特征迁移学习以及其他方法
@@ -15,7 +14,7 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 ## 数据增广
 
 ## 特征迁移学习
-
+[1] Feature Transfer Learning for Face Recognition With Under-Represented Data (CVPR2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
 
 ## 其他方法
 
