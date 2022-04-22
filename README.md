@@ -27,7 +27,7 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 ## 其他方法
 [1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
 
-
+[2] Long-tailed Distribution Adaptation 长尾分布适应 （ACM MM）https://arxiv.org/pdf/2110.02686.pdf
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
 [![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
