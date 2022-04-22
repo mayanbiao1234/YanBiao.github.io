@@ -7,36 +7,36 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 <br />我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失（成本敏感学习）、训练策略、数据增广、特征迁移学习以及其他方法
 
 ## 综述 Overview
-[1] Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
+**[1]** Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
 ## 重采样以及成本敏感学习 Resampling and cost-sensitive learning 
 
 
 ## 多阶段的训练策略 Multi-stage training strategy
-[1] A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
+**[1]** A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
 
-[2] Learning From Long-Tailed Data With Noisy Labels 带噪声标签的长尾数据学习(2021年提交到arxiv) https://arxiv.org/abs/2108.11096
+**[2]** Learning From Long-Tailed Data With Noisy Labels 带噪声标签的长尾数据学习(2021年提交到arxiv) https://arxiv.org/abs/2108.11096
 
-[3] Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据 (AAAI 2022) https://arxiv.org/abs/2201.00849
+**[3]** Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据 (AAAI 2022) https://arxiv.org/abs/2201.00849
 ## 数据增广 Data Augmentation
-[1] Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
+**[1]** Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
-[2] Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673
+**[2]** Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673
 
 ## 特征迁移学习 Feature transfer learning
-[1] Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR 2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
+**[1]** Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR 2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
 
-[2] Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角(CVPR  2019)https://arxiv.org/abs/2002.10826
+**[2]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角(CVPR  2019)https://arxiv.org/abs/2002.10826
 
-[3] Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
+**[3]** Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
 
-[4] Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准(ICML 2021 WorkShop) https://arxiv.org/abs/2109.05263
+**[4]** Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准(ICML 2021 WorkShop) https://arxiv.org/abs/2109.05263
 ## 其他方法 Other methods
-[1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
+**[1]** Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
 <br />备注：这篇论文将尾部类别的历史特征保存下来，以实现和头部类别在数量上的平衡
 
-[2] Long-tailed Distribution Adaptation 长尾分布适应 （ACM MM 2021）https://arxiv.org/pdf/2110.02686.pdf
+**[2]** Long-tailed Distribution Adaptation 长尾分布适应 （ACM MM 2021）https://arxiv.org/pdf/2110.02686.pdf
 
-[3] Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 (2021年提交到arxiv) https://arxiv.org/abs/2108.12757
+**[3]** Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 (2021年提交到arxiv) https://arxiv.org/abs/2108.12757
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
 [![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
