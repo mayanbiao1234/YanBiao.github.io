@@ -14,6 +14,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 多阶段的训练策略 Multi-stage training strategy
 [1] A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
 
+[2] Learning From Long-Tailed Data With Noisy Labels 带噪声标签的长尾数据学习(2021年提交到arxiv) https://arxiv.org/abs/2108.11096
 
 ## 数据增广 Data Augmentation
 [1] Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
