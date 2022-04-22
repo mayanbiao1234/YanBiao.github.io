@@ -1,5 +1,5 @@
 ##### YanBiao.github.io
-## Hi there 👋  Imbalanced Learning
+## 👋 Imbalanced Learning
 We focus on deep imbalanced learning as well as imbalanced learning in open environments, with recent advances in imbalance metrics.
 <br />关注不平衡学习，特别是开放环境下的不平衡问题，以及不平衡度量的最新进展！
 ## 不平衡学习研究分类
@@ -13,12 +13,17 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 ## 分阶段的训练策略
 
 
+
 ## 数据增广
+
+
 
 ## 特征迁移学习
 [1] Feature Transfer Learning for Face Recognition With Under-Represented Data (CVPR2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
-[2] 
+<br />[2] 
 ## 其他方法
+[1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory (CVPR2021) https://arxiv.org/abs/2008.09809
+
 
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
