@@ -20,7 +20,7 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 
 ## 特征迁移学习
 [1] Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
-<br />[2] 
+<br />[2] Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
 ## 其他方法
 [1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR2021) https://arxiv.org/abs/2008.09809
 
