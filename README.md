@@ -1,5 +1,5 @@
 ##### YanBiao.github.io
-## 👋 Imbalanced Learning
+# 👋 Imbalanced Learning
 We focus on deep imbalanced learning as well as imbalanced learning in open environments, with recent advances in imbalance metrics.
 <br />关注不平衡学习，特别是开放环境下的不平衡问题，以及不平衡度量的最新进展！
 
@@ -10,6 +10,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 ## 综述 Overview
 **[1]** Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
+===
 ## 重采样以及成本敏感学习 Resampling and cost-sensitive learning 
 
 
