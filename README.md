@@ -31,6 +31,8 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 [1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
 
 [2] Long-tailed Distribution Adaptation 长尾分布适应 （ACM MM 2021）https://arxiv.org/pdf/2110.02686.pdf
+
+[3] Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 (2021年提交到arxiv) https://arxiv.org/abs/2108.12757
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
 [![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
