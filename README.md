@@ -11,7 +11,7 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 
 
 ## 分阶段的训练策略
-
+[1] A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 (CVPR2021) https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
 
 
 ## 数据增广
