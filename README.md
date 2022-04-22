@@ -10,7 +10,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 ## 综述 Overview
 **[1]** Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
-===
+
 ## 重采样以及成本敏感学习 Resampling and cost-sensitive learning 
 
 
