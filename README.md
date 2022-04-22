@@ -16,6 +16,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 [2] Learning From Long-Tailed Data With Noisy Labels 带噪声标签的长尾数据学习(2021年提交到arxiv) https://arxiv.org/abs/2108.11096
 
+[3] Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据 (AAAI 2022) https://arxiv.org/abs/2201.00849
 ## 数据增广 Data Augmentation
 [1] Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
