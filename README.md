@@ -5,6 +5,8 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 ## 不平衡学习研究分类
 我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失（成本敏感学习）、训练策略、数据增广、特征迁移学习以及其他方法
 
+## 综述
+[1] Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
 ## 重采样以及成本敏感学习
 
 
@@ -15,7 +17,7 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 
 ## 特征迁移学习
 [1] Feature Transfer Learning for Face Recognition With Under-Represented Data (CVPR2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
-
+[2] 
 ## 其他方法
 
 ### Get in touch
