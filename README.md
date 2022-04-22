@@ -20,6 +20,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 数据增广 Data Augmentation
 [1] Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
+[2] Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673
 
 ## 特征迁移学习 Feature transfer learning
 [1] Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR 2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
