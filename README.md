@@ -5,26 +5,26 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 ## 不平衡学习研究分类
 我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失（成本敏感学习）、训练策略、数据增广、特征迁移学习以及其他方法
 
-## 综述
+## 综述 Overview
 [1] Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
-## 重采样以及成本敏感学习
+## 重采样以及成本敏感学习 Resampling and cost-sensitive learning 
 
 
-## 分阶段的训练策略
+## 多阶段的训练策略 Multi-stage training strategy
 [1] A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
 
 
-## 数据增广
+## 数据增广 Data Augmentation
 [1] Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
 
-## 特征迁移学习
+## 特征迁移学习 Feature transfer learning
 [1] Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
 
 [2]Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角(CVPR 2019)https://arxiv.org/abs/2002.10826
 
 [3]Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
-## 其他方法
+## 其他方法 Other methods
 [1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
 
 [2] Long-tailed Distribution Adaptation 长尾分布适应 （ACM MM）https://arxiv.org/pdf/2110.02686.pdf
