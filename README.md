@@ -22,7 +22,7 @@ We focus on deep imbalanced learning as well as imbalanced learning in open envi
 [1] Feature Transfer Learning for Face Recognition With Under-Represented Data (CVPR2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
 <br />[2] 
 ## 其他方法
-[1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory (CVPR2021) https://arxiv.org/abs/2008.09809
+[1] Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR2021) https://arxiv.org/abs/2008.09809
 
 
 ### Get in touch
