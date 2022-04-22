@@ -2,15 +2,8 @@
 ## Hi there 👋  Imbalanced Learning
 We focus on deep imbalanced learning as well as imbalanced learning in open environments, with recent advances in imbalance metrics.
 <br />关注不平衡学习，特别是开放环境下的不平衡问题，以及不平衡度量的最新进展！
-### Hi there 👋
- <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
- 🤓 I'm Yanbiao 马彦彪,
- 
- I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 ([a Lv7 VIP at Dianping 大众点评](https://m.dianping.com/userprofile/121632876)).
- 
- And I love fruit very much. 🍎 🍓 🥭 🥝
- 
- ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilin90&show_icons=true&theme=tokyonight)
+## 不平衡学习研究分类
+<br />我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失、训练策略、数据增广、特征迁移学习以及其他方法
 
 
 ### My side projects
