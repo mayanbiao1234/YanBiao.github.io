@@ -45,8 +45,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[3]** Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 (2021年提交到arxiv) https://arxiv.org/abs/2108.12757
 ### Get in touch
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
-[![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/mayanbiao1234)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/ma-yan-biao-73)
 
 
