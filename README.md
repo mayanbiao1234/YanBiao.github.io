@@ -44,6 +44,10 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[2]** Long-tailed Distribution Adaptation 长尾分布适应 （ACM MM 2021）https://arxiv.org/pdf/2110.02686.pdf
 
 **[3]** Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 (2021年提交到arxiv) https://arxiv.org/abs/2108.12757
+
+## 标准数据集
+**CIFAR10-LT **, **CIFAR100-LT**, **ImageNet-LT**, **iNaturalist**, **Place-LT**
+
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/mayanbiao1234)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/ma-yan-biao-73)
