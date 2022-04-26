@@ -35,7 +35,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 特征迁移学习 Feature transfer learning
 **[1]** Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR 2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
 
-**[2]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角(CVPR  2019)https://arxiv.org/abs/2002.10826
+**[2]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角(CVPR  2020)https://arxiv.org/abs/2002.10826
 
 **[3]** Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
 
