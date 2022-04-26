@@ -21,6 +21,8 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[3]** Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据 (AAAI 2022) https://arxiv.org/abs/2201.00849
 
+**[4]** Distribution Alignment: A Unified Framework for Long-tail Visual Recognition 分布对齐:长尾视觉识别的统一框架(CVPR2021) https://arxiv.org/abs/2103.16370
+
 ## 数据增广 Data Augmentation
 **[1]** Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
