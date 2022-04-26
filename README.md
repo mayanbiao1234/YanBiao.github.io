@@ -36,6 +36,10 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[4]** Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准(ICML 2021 WorkShop) https://arxiv.org/abs/2109.05263
 
+## 集成学习 
+**[1]** RIDE
+
+**[2]** Trustworthy Long-Tailed Classification 值得信赖的长尾分类 （CVPR 2022）https://arxiv.org/abs/2111.09030
 
 ## 其他方法 Other methods
 **[1]** Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
