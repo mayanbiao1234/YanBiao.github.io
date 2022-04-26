@@ -14,14 +14,22 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 重采样以及成本敏感学习 Resampling and cost-sensitive learning 
 
 
-## 多阶段的训练策略 Multi-stage training strategy
-**[1]** A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
+## 多阶段的训练策略(解耦训练) Multi-stage training strategy
+**[1]** Decoupling (ICLR 2020)
 
-**[2]** Learning From Long-Tailed Data With Noisy Labels 带噪声标签的长尾数据学习(2021年提交到arxiv) https://arxiv.org/abs/2108.11096
+**[2]** BBN (CVPR 2020)
 
-**[3]** Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据 (AAAI 2022) https://arxiv.org/abs/2201.00849
+**[3]** KCL (ICLR 2021)
 
-**[4]** Distribution Alignment: A Unified Framework for Long-tail Visual Recognition 分布对齐:长尾视觉识别的统一框架(CVPR2021) https://arxiv.org/abs/2103.16370
+**[4]** MiSLAS (CVPR 2021)
+
+**[5]** Distribution Alignment: A Unified Framework for Long-tail Visual Recognition 分布对齐:长尾视觉识别的统一框架(CVPR2021) https://arxiv.org/abs/2103.16370
+
+**[6]** A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
+
+**[7]** Learning From Long-Tailed Data With Noisy Labels 带噪声标签的长尾数据学习(2021年提交到arxiv) https://arxiv.org/abs/2108.11096
+
+**[8]** Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据 (AAAI 2022) https://arxiv.org/abs/2201.00849
 
 ## 数据增广 Data Augmentation
 **[1]** Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法，解决长尾分类中各类样本严重不平衡的问题 (CVPR 2022) https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
