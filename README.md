@@ -41,6 +41,8 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[4]** Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准(ICML 2021 WorkShop) https://arxiv.org/abs/2109.05263
 
+**[5]** Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示(ICMI 2015) https://dl.acm.org/doi/10.1145/2818346.2818348
+
 ## 集成学习 
 **[1]** RIDE
 
