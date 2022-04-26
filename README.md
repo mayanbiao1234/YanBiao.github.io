@@ -28,7 +28,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[2]** Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
-**[3]** Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673
+**[3]** Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
 
 **[4]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 为尾部类别构造云、用“特征云”来充实尾部类的方法（CVPR 2020）https://arxiv.org/abs/2002.10826 **备注:** 和[1]基本一样，而且这篇论文研究似乎更加深入，[1]有抄袭的现象吗？这篇论文也可以被划分进入特征迁移学习的类别。
 
