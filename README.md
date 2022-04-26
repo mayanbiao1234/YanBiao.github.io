@@ -2,7 +2,7 @@
 # 👋 Imbalanced Learning
 We focus on deep imbalanced learning as well as imbalanced learning in open environments, with recent advances in imbalance metrics.
 <br />关注不平衡学习，特别是开放环境下的不平衡问题，以及不平衡度量的最新进展！
-[toc]
+
 ## 不平衡学习研究分类
 We discuss deep imbalance learning, categorizing existing research into resampling, rebalancing losses (cost-sensitive learning), training strategies, data augmentation, feature migration learning, and other methods
 <br />我们讨论深度不平衡学习，将现有的研究分为重采样、重新平衡损失（成本敏感学习）、训练策略、数据增广、特征迁移学习以及其他方法
@@ -49,7 +49,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[4]** M2m: Imbalanced Classification via Major-to-minor Translation (CVPR2020):除了特征层面的头到尾的转移，头尾转换(M2m)[79]提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。https://arxiv.org/abs/2004.00431
 
-**[5]** GIST (ICCV2021):在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。
+**[5]** GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition  一种用于长尾识别的几何结构迁移网络 (ICCV2021):在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。https://arxiv.org/pdf/2105.00131.pdf
 
 **[6]** Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
 
