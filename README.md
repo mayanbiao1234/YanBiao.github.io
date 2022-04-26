@@ -48,6 +48,9 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[2]** Trustworthy Long-Tailed Classification 值得信赖的长尾分类 （CVPR 2022）https://arxiv.org/abs/2111.09030
 
+## 不平衡新指标（长尾分布中，样本少的类别不一定分类效果差）
+**[1]** Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失(AAAI2022) https://arxiv.org/pdf/2104.06094.pdf
+
 ## 其他方法 Other methods
 **[1]** Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
 <br />备注：这篇论文将尾部类别的历史特征保存下来，以实现和头部类别在数量上的平衡
