@@ -47,7 +47,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[3]** RSG: A Simple but Effective Module for Learning Imbalanced Datasets 一个简单但有效的学习不平衡数据集的模块(cvpr2021) https://arxiv.org/abs/2106.09859
 
-**[4]** M2m (CVPR2020):除了特征层面的头到尾的转移，头尾转换(M2m)[79]提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。
+**[4]** M2m: Imbalanced Classification via Major-to-minor Translation (CVPR2020):除了特征层面的头到尾的转移，头尾转换(M2m)[79]提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。https://arxiv.org/abs/2004.00431
 
 **[5]** GIST (ICCV2021):在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。
 
