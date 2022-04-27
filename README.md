@@ -34,7 +34,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 数据增广 Data Augmentation
 **[1]** Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法(构造“特征云”)，解决长尾分类中各类样本严重不平衡的问题 (CVPR 2022) https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
 
-**[2]** Improving Calibration for Long-Tailed Recognition 改进的长尾识别校准(CVPR 2021) https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf
+**[2]** Improving Calibration for Long-Tailed Recognition 改进的长尾识别校准(CVPR 2021) https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf 这篇文章指出使用数据mixup对特征学习是有益的，但是会损害分类器学习，当使用解耦训练策略时，也会对分类器学习有害，但可以忽略不计。[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://zhuanlan.zhihu.com/p/419911014)
 
 **[3]** Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
