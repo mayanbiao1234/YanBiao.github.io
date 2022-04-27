@@ -36,13 +36,15 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[2]** Improving Calibration for Long-Tailed Recognition 改进的长尾识别校准(CVPR 2021) https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf 这篇文章指出使用数据mixup对特征学习是有益的，但是会损害分类器学习，当使用解耦训练策略时，也会对分类器学习有害，但可以忽略不计。[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://zhuanlan.zhihu.com/p/419911014)
 
-**[3]** Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
+**[3]** FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation 长尾实例分割的特征增强和采样自适应 (ICCV 2021)https://arxiv.org/abs/2102.12867
 
-**[4]** Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
+**[4]** Feature Generation for Long-tail Classification 长尾分类的特征生成 (ICVGIP'21) https://arxiv.org/abs/2111.05956
 
-**[5]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 为尾部类别构造云、用“特征云”来充实尾部类的方法（CVPR 2020）https://arxiv.org/abs/2002.10826 **备注:** 和[1]基本一样，而且这篇论文研究似乎更加深入，[1]有抄袭的现象吗？这篇论文也可以被划分进入特征迁移学习的类别。
+**[5]** Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
 
-**[6]** Remix: Rebalanced Mixup 重新平衡的Mixup （ECCV WorkShop 2020）https://arxiv.org/pdf/2007.03943v3.pdf
+**[6]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 为尾部类别构造云、用“特征云”来充实尾部类的方法（CVPR 2020）https://arxiv.org/abs/2002.10826 **备注:** 和[1]基本一样，而且这篇论文研究似乎更加深入，[1]有抄袭的现象吗？这篇论文也可以被划分进入特征迁移学习的类别。
+
+**[7]** Remix: Rebalanced Mixup 重新平衡的Mixup （ECCV WorkShop 2020）https://arxiv.org/pdf/2007.03943v3.pdf
 
 ## 特征迁移学习 Feature transfer learning
 **[1]** Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR 2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
