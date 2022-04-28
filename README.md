@@ -49,23 +49,21 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 特征迁移学习 Feature transfer learning
 **[1]** Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习(CVPR 2019)https://ieeexplore.ieee.org/document/8953809/citations#citations
 
-**[2]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角(CVPR  2020)https://arxiv.org/abs/2002.10826
+**[2]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角(CVPR  2020)https://arxiv.org/abs/2002.10826 为尾部类别构造云、用“特征云”来充实尾部类的方法
 
 **[3]** Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 (ECCV2020) https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
 
-**[4]** Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 为尾部类别构造云、用“特征云”来充实尾部类的方法（CVPR 2020）https://arxiv.org/abs/2002.10826 **备注:** 和[1]基本一样，而且这篇论文研究似乎更加深入，[1]有抄袭的现象吗？这篇论文也可以被划分进入特征迁移学习的类别。
+**[4]** RSG: A Simple but Effective Module for Learning Imbalanced Datasets 一个简单但有效的学习不平衡数据集的模块(cvpr2021) https://arxiv.org/abs/2106.09859
 
-**[5]** RSG: A Simple but Effective Module for Learning Imbalanced Datasets 一个简单但有效的学习不平衡数据集的模块(cvpr2021) https://arxiv.org/abs/2106.09859
+**[5]** M2m: Imbalanced Classification via Major-to-minor Translation (CVPR2020):除了特征层面的头到尾的转移，头尾转换(M2m)[79]提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。https://arxiv.org/abs/2004.00431
 
-**[6]** M2m: Imbalanced Classification via Major-to-minor Translation (CVPR2020):除了特征层面的头到尾的转移，头尾转换(M2m)[79]提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。https://arxiv.org/abs/2004.00431
+**[6]** GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition  一种用于长尾识别的几何结构迁移网络 (ICCV2021):在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。https://arxiv.org/pdf/2105.00131.pdf
 
-**[7]** GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition  一种用于长尾识别的几何结构迁移网络 (ICCV2021):在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。https://arxiv.org/pdf/2105.00131.pdf
+**[7]** Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
 
-**[8]** Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 (似乎未正式发表) https://arxiv.org/abs/2111.04901
+**[8]** Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准(ICML 2021 WorkShop) https://arxiv.org/abs/2109.05263
 
-**[9]** Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准(ICML 2021 WorkShop) https://arxiv.org/abs/2109.05263
-
-**[10]** Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示(ICMI 2015) https://dl.acm.org/doi/10.1145/2818346.2818348
+**[9]** Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示(ICMI 2015) https://dl.acm.org/doi/10.1145/2818346.2818348
 
 ## 集成学习 
 **[1]** RIDE
