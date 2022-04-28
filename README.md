@@ -66,9 +66,11 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[9]** Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示(ICMI 2015) https://dl.acm.org/doi/10.1145/2818346.2818348
 
 ## 集成学习 
-**[1]** RIDE
+**[1]** Trustworthy Long-Tailed Classification 值得信赖的长尾分类 （CVPR 2022）https://arxiv.org/abs/2111.09030
 
-**[2]** Trustworthy Long-Tailed Classification 值得信赖的长尾分类 （CVPR 2022）https://arxiv.org/abs/2111.09030
+**[2]** RIDE
+
+**[3]** TADE
 
 ## logit Adiustment
 **[1]** Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失(AAAI2022) https://arxiv.org/pdf/2104.06094.pdf
