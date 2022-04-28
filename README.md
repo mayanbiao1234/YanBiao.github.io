@@ -11,8 +11,8 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 综述 Overview
 **[1]** Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
 
-## 重采样以及成本敏感学习 Resampling and cost-sensitive learning 
-
+## 重采样以及成本敏感学习（重新平衡损失） Resampling and cost-sensitive learning 
+**[1]** Long-Tailed Recognition via Weight Balancing 通过重新平衡进行长尾识别（CVPR 2022）https://arxiv.org/abs/2203.14197 采用了一个两阶段的训练范式，并提出了一个简单的LTR方法：（1）使用交叉熵损失学习特征 (1)通过调整权重衰减，使用交叉熵损失学习特征，以及(2)通过调整权重衰减和MaxNorm，使用类平衡损失学习分类器。
 
 ## 多阶段的训练策略(解耦训练) Multi-stage training strategy
 **[1]** Decoupling (ICLR 2020)
