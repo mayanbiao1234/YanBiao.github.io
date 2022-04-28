@@ -9,10 +9,10 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 
 ## 综述 Overview
-**[1]** Deep Long-Tailed Learning: A Survey (TPAMI 2021) https://arxiv.org/abs/2110.04596
+**[1]** Deep Long-Tailed Learning: A Survey (**TPAMI 2021**) https://arxiv.org/abs/2110.04596
 
 ## 重采样以及成本敏感学习（重新平衡损失） Resampling and cost-sensitive learning 
-**[1]** Long-Tailed Recognition via Weight Balancing 通过重新平衡进行长尾识别（CVPR 2022）https://arxiv.org/abs/2203.14197 采用了一个两阶段的训练范式，并提出了一个简单的LTR方法：（1）使用交叉熵损失学习特征 (1)通过调整权重衰减，使用交叉熵损失学习特征，以及(2)通过调整权重衰减和MaxNorm，使用类平衡损失学习分类器。
+**[1]** Long-Tailed Recognition via Weight Balancing 通过重新平衡进行长尾识别（**CVPR 2022**）https://arxiv.org/abs/2203.14197 采用了一个两阶段的训练范式，并提出了一个简单的LTR方法：（1）使用交叉熵损失学习特征 (1)通过调整权重衰减，使用交叉熵损失学习特征，以及(2)通过调整权重衰减和MaxNorm，使用类平衡损失学习分类器。
 
 ## 多阶段的训练策略(解耦训练) Multi-stage training strategy
 **[1]** Decoupling (ICLR 2020)
@@ -32,9 +32,9 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[8]** Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据 (AAAI 2022) https://arxiv.org/abs/2201.00849
 
 ## 数据增广 Data Augmentation
-**[1]** Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法(构造“特征云”)，解决长尾分类中各类样本严重不平衡的问题 (CVPR 2022) https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
+**[1]** Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法(构造“特征云”)，解决长尾分类中各类样本严重不平衡的问题 (**CVPR 2022**) https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
 
-**[2]** Improving Calibration for Long-Tailed Recognition 改进的长尾识别校准(CVPR 2021) https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf 这篇文章指出使用数据mixup对特征学习是有益的，但是会损害分类器学习，当使用解耦训练策略时，也会对分类器学习有害，但可以忽略不计。[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://zhuanlan.zhihu.com/p/419911014)
+**[2]** Improving Calibration for Long-Tailed Recognition 改进的长尾识别校准(**CVPR 2021**) https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf 这篇文章指出使用数据mixup对特征学习是有益的，但是会损害分类器学习，当使用解耦训练策略时，也会对分类器学习有害，但可以忽略不计。[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://zhuanlan.zhihu.com/p/419911014)
 
 **[3]** FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation 长尾实例分割的特征增强和采样自适应 (ICCV 2021)https://arxiv.org/abs/2102.12867
 
@@ -66,16 +66,16 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[9]** Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示(ICMI 2015) https://dl.acm.org/doi/10.1145/2818346.2818348
 
 ## 集成学习 
-**[1]** Trustworthy Long-Tailed Classification 值得信赖的长尾分类 （CVPR 2022）https://arxiv.org/abs/2111.09030
+**[1]** Trustworthy Long-Tailed Classification 值得信赖的长尾分类 （**CVPR 2022**）https://arxiv.org/abs/2111.09030
 
 **[2]** RIDE
 
 **[3]** TADE
 
 ## logit Adiustment
-**[1]** Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失(AAAI2022) https://arxiv.org/pdf/2104.06094.pdf
+**[1]** Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失(**AAAI2022**) https://arxiv.org/pdf/2104.06094.pdf
 
-**[2]** Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法(构造“特征云”)，解决长尾分类中各类样本严重不平衡的问题 (CVPR 2022) https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
+**[2]** Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法(构造“特征云”)，解决长尾分类中各类样本严重不平衡的问题 (**CVPR 2022**) https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
 
 ## 其他方法 Other methods
 **[1]** Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 (CVPR 2021) https://arxiv.org/abs/2008.09809
