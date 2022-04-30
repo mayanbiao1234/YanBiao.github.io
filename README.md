@@ -20,7 +20,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[4]**（**CVPR 2022**）C2AM Loss: Chasing a Better Decision Boundary for Long-Tail Object Detection C2AM损失：为长尾目标检测任务追求更好的决策边界 自动化所的论文
 
-**[5]**（**CVPR 2022**）Nested Collaborative Learning for Long-Tailed Visual Recognition 长尾视觉数据识别的嵌套式协同学习方法 https://arxiv.org/abs/2203.15359v2
+**[5]**（**CVPR 2022**）Nested Collaborative Learning for Long-Tailed Visual Recognition 长尾视觉数据识别的嵌套式协同学习方法 https://arxiv.org/abs/2203.15359v2 一作是自动化所的
 
 ## 多阶段的训练策略(解耦训练) Multi-stage training strategy
 **[1]** (**ICLR 2020**) Decoupling
