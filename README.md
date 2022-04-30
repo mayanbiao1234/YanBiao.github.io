@@ -70,9 +70,9 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 集成学习 
 **[1]**（**CVPR 2022**）Trustworthy Long-Tailed Classification 值得信赖的长尾分类 https://arxiv.org/abs/2111.09030
 
-**[2]** RIDE
+**[2]** (**ICLR 2021**) Long-tailed Recognition by Routing Diverse Distribution-Aware Experts 基于路由多样性分布感知专家的长尾识别 https://arxiv.org/pdf/2010.01809.pdf
 
-**[3]** (**arxiv 2021**) Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision 具有自我监督的测试时间聚合不同专家的测试无关长尾识别： 这片文章应该是目前的SOTA
+**[3]** (**arxiv 2021**) Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision 具有自我监督的测试时间聚合不同专家的测试无关长尾识别： 这片文章应该是目前的SOTA  https://arxiv.org/abs/2107.09249
 
 ## logit Adiustment
 **[1]** (**AAAI 2022**) Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失https://arxiv.org/pdf/2104.06094.pdf
