@@ -72,7 +72,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[2]** RIDE
 
-**[3]** TADE
+**[3]** (**arxiv 2021**) Test-Agnostic Long-Tailed Recognition by Test-Time Aggregating Diverse Experts with Self-Supervision 具有自我监督的测试时间聚合不同专家的测试无关长尾识别： 这片文章应该是目前的SOTA
 
 ## logit Adiustment
 **[1]** (**AAAI 2022**) Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失https://arxiv.org/pdf/2104.06094.pdf
