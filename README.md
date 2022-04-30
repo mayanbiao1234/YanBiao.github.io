@@ -16,6 +16,8 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[2]**（**CVPR 2022**）Equalized Focal Loss for Dense Long-Tailed Object Detection 用于解决单阶段目标检测长尾问题的均衡版Focal Loss 商汤的论文https://arxiv.org/pdf/2201.02593.pdf] [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://zhuanlan.zhihu.com/p/489606679)
 
+**[3]**（**CVPR 2022**）Relieving Long-tailed Instance Segmentation via Pairwise Class Balance 通过两两类平衡缓解长尾实例分割 https://arxiv.org/abs/2201.02784 长尾问题的根源是占比不多的头部类的样本数远多于占比不小的尾部类们。直接在这种数据集上训练的模型，其分类预测会有偏差。易把尾部类样本错分成头部类样本. 现有技术提出一些指标去简单指示偏差, 并进行相应建模，达到某种平衡从而提升效果。要么局限于静态的训练集类别分布，不灵活。要么即使考虑了动态统计量，也只是每个类本身的分类情况，没有考虑到类间错分。PCB 方法使用混淆矩阵维护训练时类间预测偏差信息。对于训练样本，除基本交叉熵损失外，据其类别从混淆矩阵中取得对抗软类标，施以该软类标的交叉熵损失进行纠偏。我们的方法可无缝插入到前沿的长尾实例分割模型中，均取得不俗提升，部分可达领域最佳效果。
+
 ## 多阶段的训练策略(解耦训练) Multi-stage training strategy
 **[1]** (**ICLR 2020**) Decoupling
 
