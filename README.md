@@ -17,55 +17,55 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[2]**（**CVPR 2022**）Equalized Focal Loss for Dense Long-Tailed Object Detection 用于解决单阶段目标检测长尾问题的均衡版Focal Loss 商汤的论文https://arxiv.org/pdf/2201.02593.pdf] [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://zhuanlan.zhihu.com/p/489606679)
 
 ## 多阶段的训练策略(解耦训练) Multi-stage training strategy
-**[1]** (ICLR 2020) Decoupling
+**[1]** (**ICLR 2020**) Decoupling
 
-**[2]** (CVPR 2020) BBN
+**[2]** (**CVPR 2020**) BBN
 
-**[3]** (ICLR 2021) KCL
+**[3]** (**ICLR 2021**) KCL
 
-**[4]** (CVPR 2021) MiSLAS
+**[4]** (**CVPR 2021**) MiSLAS
 
-**[5]** (CVPR2021) Distribution Alignment: A Unified Framework for Long-tail Visual Recognition 分布对齐:长尾视觉识别的统一框架https://arxiv.org/abs/2103.16370
+**[5]** (**CVPR2021**) Distribution Alignment: A Unified Framework for Long-tail Visual Recognition 分布对齐:长尾视觉识别的统一框架https://arxiv.org/abs/2103.16370
 
 **[6]** A novel three-stage training strategy for long-tailed classification 一种新颖的长尾分类三阶段训练策略 https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2104.09830
 
 **[7]** (2021年提交到arxiv) Learning From Long-Tailed Data With Noisy Labels 带噪声标签的长尾数据学习 https://arxiv.org/abs/2108.11096
 
-**[8]** (AAAI 2022) Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据https://arxiv.org/abs/2201.00849
+**[8]** (**AAAI 2022**) Delving into Sample Loss Curve to Embrace Noisy and Imbalanced Data 深入研究样本损失曲线来包含噪声和不平衡数据https://arxiv.org/abs/2201.00849
 
 ## 数据增广 Data Augmentation
 **[1]** (**CVPR 2022**) Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法(构造“特征云”)，解决长尾分类中各类样本严重不平衡的问题 https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
 
 **[2]** (**CVPR 2021**) Improving Calibration for Long-Tailed Recognition 改进的长尾识别校准https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf 这篇文章指出使用数据mixup对特征学习是有益的，但是会损害分类器学习，当使用解耦训练策略时，也会对分类器学习有害，但可以忽略不计。[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://zhuanlan.zhihu.com/p/419911014)
 
-**[3]** (ICCV 2021) FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation 长尾实例分割的特征增强和采样自适应https://arxiv.org/abs/2102.12867
+**[3]** (**ICCV 2021**) FASA: Feature Augmentation and Sampling Adaptation for Long-Tailed Instance Segmentation 长尾实例分割的特征增强和采样自适应https://arxiv.org/abs/2102.12867
 
-**[4]** (ICVGIP'21) Feature Generation for Long-tail Classification 长尾分类的特征生成 https://arxiv.org/abs/2111.05956
+**[4]** (**ICVGIP'21**) Feature Generation for Long-tail Classification 长尾分类的特征生成 https://arxiv.org/abs/2111.05956
 
-**[5]** (ECCV2020) Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
+**[5]** (**ECCV2020**) Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
 
-**[6]**（CVPR 2020）Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 为尾部类别构造云、用“特征云”来充实尾部类的方法 https://arxiv.org/abs/2002.10826 **备注:** 和[1]基本一样，而且这篇论文研究似乎更加深入，[1]有抄袭的现象吗？这篇论文也可以被划分进入特征迁移学习的类别。
+**[6]**（**CVPR 2020**）Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 为尾部类别构造云、用“特征云”来充实尾部类的方法 https://arxiv.org/abs/2002.10826 **备注:** 和[1]基本一样，而且这篇论文研究似乎更加深入，[1]有抄袭的现象吗？这篇论文也可以被划分进入特征迁移学习的类别。
 
-**[7]**（ECCV WorkShop 2020）Remix: Rebalanced Mixup 重新平衡的Mixup https://arxiv.org/pdf/2007.03943v3.pdf
+**[7]**（**ECCV WorkShop 2020**）Remix: Rebalanced Mixup 重新平衡的Mixup https://arxiv.org/pdf/2007.03943v3.pdf
 
 ## 特征迁移学习 Feature transfer learning
-**[1]** (CVPR 2019) Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习https://ieeexplore.ieee.org/document/8953809/citations#citations
+**[1]** (**CVPR 2019**) Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习https://ieeexplore.ieee.org/document/8953809/citations#citations
 
-**[2]** (CVPR  2020) Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角 https://arxiv.org/abs/2002.10826 为尾部类别构造云、用“特征云”来充实尾部类的方法
+**[2]** (**CVPR 2020**) Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角 https://arxiv.org/abs/2002.10826 为尾部类别构造云、用“特征云”来充实尾部类的方法
 
-**[3]** (ECCV2020) Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
+**[3]** (**ECCV 2020**) Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
 
-**[4]** (cvpr2021) RSG: A Simple but Effective Module for Learning Imbalanced Datasets 一个简单但有效的学习不平衡数据集的模块https://arxiv.org/abs/2106.09859
+**[4]** (**cvpr 2021**) RSG: A Simple but Effective Module for Learning Imbalanced Datasets 一个简单但有效的学习不平衡数据集的模块https://arxiv.org/abs/2106.09859
 
-**[5]** (CVPR2020) M2m: Imbalanced Classification via Major-to-minor Translation:除了特征层面的头到尾的转移，头尾转换(M2m)提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。https://arxiv.org/abs/2004.00431
+**[5]** (**CVPR 2020**) M2m: Imbalanced Classification via Major-to-minor Translation:除了特征层面的头到尾的转移，头尾转换(M2m)提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。https://arxiv.org/abs/2004.00431
 
-**[6]** (ICCV2021) GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition  一种用于长尾识别的几何结构迁移网络:在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。https://arxiv.org/pdf/2105.00131.pdf
+**[6]** (**ICCV 2021**) GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition  一种用于长尾识别的几何结构迁移网络:在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。https://arxiv.org/pdf/2105.00131.pdf
 
 **[7]** (似乎未正式发表) Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 https://arxiv.org/abs/2111.04901
 
-**[8]** (ICML 2021 WorkShop)Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准 https://arxiv.org/abs/2109.05263
+**[8]** (**ICML 2021 WorkShop**)Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准 https://arxiv.org/abs/2109.05263
 
-**[9]** (ICMI 2015) Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示 https://dl.acm.org/doi/10.1145/2818346.2818348
+**[9]** (**ICMI 2015**) Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示 https://dl.acm.org/doi/10.1145/2818346.2818348
 
 ## 集成学习 
 **[1]**（**CVPR 2022**）Trustworthy Long-Tailed Classification 值得信赖的长尾分类 https://arxiv.org/abs/2111.09030
@@ -75,15 +75,15 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[3]** TADE
 
 ## logit Adiustment
-**[1]** (**AAAI2022**) Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失https://arxiv.org/pdf/2104.06094.pdf
+**[1]** (**AAAI 2022**) Adaptive Logit Adjustment Loss for Long-Tailed Visual Recognition 长尾视觉识别的自适应Logit调整损失https://arxiv.org/pdf/2104.06094.pdf
 
 **[2]** (**CVPR 2022**)Long-tailed Visual Recognition via Gaussian Clouded Logit Adjustment 通过高斯扰动调整logit的方法(构造“特征云”)，解决长尾分类中各类样本严重不平衡的问题 https://www.techrxiv.org/articles/preprint/Long-tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment/17031920/1
 
 ## 其他方法 Other methods
-**[1]** (CVPR 2021) Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 https://arxiv.org/abs/2008.09809
+**[1]** (**CVPR 2021**) Memory-based Jitter: Improving Visual Recognition on Long-tailed Data with Diversity In Memory 基于内存的抖动：提高对具有内存多样性的长尾数据的视觉识别 https://arxiv.org/abs/2008.09809
 <br />备注：这篇论文将尾部类别的历史特征保存下来，以实现和头部类别在数量上的平衡
 
-**[2]**（ACM MM 2021）Long-tailed Distribution Adaptation 长尾分布适应 https://arxiv.org/pdf/2110.02686.pdf
+**[2]**（**ACM MM 2021**）Long-tailed Distribution Adaptation 长尾分布适应 https://arxiv.org/pdf/2110.02686.pdf
 
 **[3]** (2021年提交到arxiv) Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 https://arxiv.org/abs/2108.12757
 
