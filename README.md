@@ -22,6 +22,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[5]**（**CVPR 2022**）Nested Collaborative Learning for Long-Tailed Visual Recognition 长尾视觉数据识别的嵌套式协同学习方法 https://arxiv.org/abs/2203.15359v2 一作是自动化所的
 
+**[5]**（**CVPR 2022**）Balanced MSE for Imbalanced Visual Regression 不平衡视觉回归的平衡MSE https://arxiv.org/pdf/2203.16427.pdf 商汤和南洋理工的论文
 ## 多阶段的训练策略(解耦训练) Multi-stage training strategy
 **[1]** (**ICLR 2020**) Decoupling
 
