@@ -28,7 +28,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[2]** (**CVPR 2020**) BBN
 
-**[3]** (**ICLR 2021**) KCL
+**[3]** (**ICLR 2021**) (KCL) Exploring Balanced Feature Spaces for Representation Learning 探索表征学习的平衡特征空间 https://openreview.net/forum?id=OqtLIabPTit
 
 **[4]** (**CVPR 2021**) MiSLAS
 
