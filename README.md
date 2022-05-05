@@ -56,21 +56,21 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[7]**（**ECCV WorkShop 2020**）Remix: Rebalanced Mixup 重新平衡的Mixup https://arxiv.org/pdf/2007.03943v3.pdf
 
 ## 特征迁移学习 Feature transfer learning
-**[1]** (**CVPR 2019**) Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习https://ieeexplore.ieee.org/document/8953809/citations#citations
+**[1]** (似乎未正式发表) Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 https://arxiv.org/abs/2111.04901
 
-**[2]** (**CVPR 2020**) Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角 https://arxiv.org/abs/2002.10826 为尾部类别构造云、用“特征云”来充实尾部类的方法
+**[2]** (**ICML 2021 WorkShop**)Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准 https://arxiv.org/abs/2109.05263
 
-**[3]** (**ECCV 2020**) Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
+**[3]** (**ICCV 2021**) GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition  一种用于长尾识别的几何结构迁移网络:在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。https://arxiv.org/pdf/2105.00131.pdf
 
 **[4]** (**cvpr 2021**) RSG: A Simple but Effective Module for Learning Imbalanced Datasets 一个简单但有效的学习不平衡数据集的模块https://arxiv.org/abs/2106.09859
 
 **[5]** (**CVPR 2020**) M2m: Imbalanced Classification via Major-to-minor Translation:除了特征层面的头到尾的转移，头尾转换(M2m)提出通过基于扰动的优化，将头类样本转换为尾类样本来增加尾类。通过基于扰动的优化，将头类样本翻译成尾类样本，这与对抗性攻击本质上相似。转换后的尾类样本将被用来构建一个更平衡的训练集进行模型训练。https://arxiv.org/abs/2004.00431
 
-**[6]** (**ICCV 2021**) GistNet: a Geometric Structure Transfer Network for Long-Tailed Recognition  一种用于长尾识别的几何结构迁移网络:在分类器层面进行头到尾的转移。通过用头类相对较大的分类器几何信息来增强尾类的分类器权重，GIST能够获得更好的尾部类性能。https://arxiv.org/pdf/2105.00131.pdf
+**[6]** (**ECCV 2020**) Feature Space Augmentation for Long-Tailed Data 用于长尾数据的特征空间增广 https://arxiv.org/abs/2008.03673 这篇文章也可以放在特征迁移学习中
 
-**[7]** (似乎未正式发表) Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 https://arxiv.org/abs/2111.04901
+**[7]** (**CVPR 2020**) Deep Representation Learning on Long-tailed Data: A Learnable Embedding Augmentation Perspective 基于长尾数据的深度表示学习:一种可学习的嵌入增强视角 https://arxiv.org/abs/2002.10826 为尾部类别构造云、用“特征云”来充实尾部类的方法
 
-**[8]** (**ICML 2021 WorkShop**)Class-Distribution-Aware Calibration for Long-Tailed Visual Recognition 长尾视觉识别的类分布感知校准 https://arxiv.org/abs/2109.05263
+**[8]** (**CVPR 2019**) Feature Transfer Learning for Face Recognition With Under-Represented Data 针对欠表示数据人脸识别的特征迁移学习https://ieeexplore.ieee.org/document/8953809/citations#citations
 
 **[9]** (**ICMI 2015**) Sharing Representations for Long Tail Computer Vision Problems 长尾计算机视觉问题的共享表示 https://dl.acm.org/doi/10.1145/2818346.2818348
 
