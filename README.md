@@ -56,7 +56,7 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 **[7]**（**ECCV WorkShop 2020**）Remix: Rebalanced Mixup 重新平衡的Mixup https://arxiv.org/pdf/2007.03943v3.pdf
 
 ## 特征迁移学习 Feature transfer learning
-**[1]** The Majority Can Help the Minority: Context-rich Minority Oversampling for Long-tailed Classification https://arxiv.org/abs/2112.00412v2 备注：这片论文把少数类的图像前景粘贴到多数类的背景上，丰富少数类的特征。
+**[1]** (**CVPR 2022**)The Majority Can Help the Minority: Context-rich Minority Oversampling for Long-tailed Classification https://arxiv.org/abs/2112.00412v2 备注：这片论文把少数类的图像前景粘贴到多数类的背景上，丰富少数类的特征。
 
 **[2]** (似乎未正式发表) Label-Aware Distribution Calibration for Long-tailed Classification 标签感知分布校准用于长尾分类 https://arxiv.org/abs/2111.04901
 
