@@ -11,6 +11,8 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 ## 综述 Overview
 **[1]** (**TPAMI 2021**) Deep Long-Tailed Learning: A Survey https://arxiv.org/abs/2110.04596
 
+**[2]** (**IJCV 2022**) A Survey on Long-Tailed Visual Recognition  https://link.springer.com/article/10.1007/s11263-022-01622-8
+
 ## 重采样以及成本敏感学习（重新平衡损失） Resampling and cost-sensitive learning 
 **[1]**（**CVPR 2022**）Long-Tailed Recognition via Weight Balancing 通过重新平衡进行长尾识别 https://arxiv.org/abs/2203.14197 采用了一个两阶段的训练范式，并提出了一个简单的LTR方法：（1）使用交叉熵损失学习特征 (1)通过调整权重衰减，使用交叉熵损失学习特征，以及(2)通过调整权重衰减和MaxNorm，使用类平衡损失学习分类器。
 
