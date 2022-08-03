@@ -98,6 +98,10 @@ We discuss deep imbalance learning, categorizing existing research into resampli
 
 **[3]** (2021年提交到arxiv) Calibrating Class Activation Maps for Long-Tailed Visual Recognition 校准类激活映射的长尾视觉识别 https://arxiv.org/abs/2108.12757
 
+## 多域长尾识别
+
+**[1]** (**ECCV 2022**)
+
 ## 标准数据集
 **CIFAR10-LT**, **CIFAR100-LT**, **ImageNet-LT**, **iNaturalist**, **Places-LT**
 
